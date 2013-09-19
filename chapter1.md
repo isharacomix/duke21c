@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: How a Class Becomes a Community: Theory, Method, Examples
+title: How a Class Becomes a Community - Theory, Method, Examples
 chapter: 1
 ---
 
