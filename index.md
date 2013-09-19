@@ -27,7 +27,7 @@ this license, visit [http://creativecommons.org/licenses/by-nc-sa/3.0/](http://c
 or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View,
 California.
 
-
+![A Word Cloud for this book]({{ site.baseurl }}img/wordle_0.jpg)
 
 
 Acknowledgements
