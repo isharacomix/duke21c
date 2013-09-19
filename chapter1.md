@@ -6,7 +6,7 @@ chapter: 1
 
 Cathy N. Davidson
 -----------------
-![Chapter cover image: birds]({{ site.baseurl }}img/cathys_chapter.jpeg)
+![Chapter cover image: birds]({{ site.baseurl }}img/cathys_chapter.jpg)
  
 
 Why Does a Class Need Community Rules?
