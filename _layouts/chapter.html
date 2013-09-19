@@ -12,5 +12,11 @@ layout: base
 
 </article>
 
+{% if page.prev %}
+<a class="btn pull-left" href="{{ site.baseurl }}{{ page.prev }}/">Previous</a>
+{% endif %}
 
+{% if page.next %}
+<a class="btn pull-right" href="{{ site.baseurl }}{{ page.next }}/">Next</a>
+{% endif %}
 

@@ -2,10 +2,8 @@
 layout: chapter
 title: Field Notes for 21st Century Literacies
 chapter: 0
+next: chapter1
 ---
-
-Field Notes for 21st Century Literacies
-=======================================
 
 A Guide to New Theories, Methods, and Practices for Open Peer Teaching and Learning
 -----------------------------------------------------------------------------------
