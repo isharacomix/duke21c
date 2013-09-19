@@ -22,7 +22,7 @@ Since so much learning takes place in virtual and distributed spaces, it is even
 What Reading Inspired Our Thinking about the Community Rules of Our Class?
 --------------------------------------------------------------------------
 To inspire our discussion about the assumptions embedded in the "classroom" as an entity (and perhaps even as embodying an implicit ideology) we began with Yochai Benkler's influential work "Coase's Penguin, or, Linux and the Nature of the Firm" (2002). Benkler coined the term "commons-based peer production" for the form of collective, uncompensated, often anonymous and sometimes spontaneous collaborative work that the open architecture (enabled by HTML) of the Web allows and promotes.
-
+ 
 Sites such as Wikipedia exemplify the new knowledge commons, as do Creative Commons intellectual property "share and share alike" licensing and the Open Software movement, symbolized by the Linux open source system and its icon, the chubby Penguin. This penguin, Benkler argues, poses a challenge to the seminal 1937 article by economist Robert Coase, "The Nature of the Firm," which argues that markets and firms are the only viable model for organizing production. Linux, according to Benkler, provides an alternative model of the firm, The Commons, where large-scale collaborations can happen, organized by peers rather than markets or top-down management systems. Benkler argues that peer production is more possible than ever, and that companies can adopt a Commons model of peer production. We believe the same is true of formal education.
 
 To that end, we began our course in 21st century literacies not with the accepted rules of what a class is, but precisely by thinking together about what those rules should be.
