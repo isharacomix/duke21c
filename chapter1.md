@@ -1,15 +1,12 @@
 ---
 layout: chapter
-title: Field Notes for 21st Century Literacies
+title: How a Class Becomes a Community: Theory, Method, Examples
 chapter: 1
 ---
 
-
-How a Class Becomes a Community: Theory, Method, Examples
----------------------------------------------------------
-
-### Cathy N. Davidson
-
+Cathy N. Davidson
+-----------------
+![Chapter cover image: birds]({{ site.baseurl }}img/cathys_chapter.jpeg)
  
 
 Why Does a Class Need Community Rules?
