@@ -158,6 +158,8 @@ Duke 21C Collective Goals and Practices for the Semester (Spring 2013)
  * Represent ourselves and the class both online and face-to-face as engaged scholars who are committed to advancing the above principles.
 
  
+<hr />
+
 
 Works Cited
 -----------
