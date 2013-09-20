@@ -174,8 +174,17 @@ Teaching Critical Thinking:
 
 Social Bookmarks:
 
-<https://delicious.com/>
 
+
+<https://www.diigo.com/>
+
+ 
+
+Question-and-Answer Websites:
+
+<http://www.formspring.me/>
+
+<https://www.quora.com/>
 
  
 
