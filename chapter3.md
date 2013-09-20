@@ -172,3 +172,29 @@ Teaching Critical Thinking:
 
  
 
+Social Bookmarks:
+
+<https://delicious.com/>
+
+<https://www.diigo.com/>
+
+ 
+
+Question-and-Answer Websites:
+
+<http://www.formspring.me/>
+
+<https://www.quora.com/>
+
+ 
+
+"In the Context of Web Context: How to Check Out Any Web Page":
+
+<http://www.wordyard.com/2010/09/14/in-the-context-of-web-context-how-to-check-out-any-web-page/>
+
+ 
+
+To Find Front Groups:
+
+<http://www.sourcewatch.org>
+
