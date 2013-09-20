@@ -172,29 +172,66 @@ Teaching Critical Thinking:
 
  
 
-Social Bookmarks:
-
-<https://delicious.com/>
-
-<https://www.diigo.com/>
-
- 
-
-Question-and-Answer Websites:
-
-<http://www.formspring.me/>
-
-<https://www.quora.com/>
-
- 
-
-"In the Context of Web Context: How to Check Out Any Web Page":
-
-<http://www.wordyard.com/2010/09/14/in-the-context-of-web-context-how-to-check-out-any-web-page/>
-
- 
-
 To Find Front Groups:
 
 <http://www.sourcewatch.org>
 
+ 
+
+To Discover Urban Legends and Misinformation:
+
+<http://www.snopes.com/>
+
+<http://urbanlegends.about.com/od/government/Politics_and_Government.htm>
+
+<http://www.america.gov/conspiracy_theories.html>
+
+ 
+
+Faculty Scholarly Productivity Index:
+
+<http://chronicle.com/stats/productivity/>
+
+ 
+
+Google Scholar Citation Analyzer:
+
+<http://www.harzing.com/pop.htm>
+
+ 
+
+Political Fact Checker:
+
+<http://factcheck.org/>
+
+ 
+
+Science:
+
+<http://www.sciencedirect.com/>
+
+ 
+
+Health on the Net Foundation:
+
+<http://www.hon.ch/>
+
+ 
+
+How to Check Online Health Articles:
+
+<http://scienceroll.com/2009/05/20/health-information-online-how-to-check-the-quality/>
+
+<http://www.mlahq.org/resources/userguide.html>
+
+ 
+
+Aggregator of Reliable Blogs:
+
+<http://globalvoicesonline.org/>
+
+ 
+
+Guide to Good Journalism:
+
+<http://newstrust.net/>
