@@ -66,7 +66,7 @@ Well, allow me to share with you some of the video submissions that my fellow cl
  * ["From a Class to a Community" (Cathy Davidson, 2013)](https://vimeo.com/63707880)
  * ["What is the 21st Century Medium?" (Jade Davis, 2013) ](https://vimeo.com/63708113)
  * ["Barry's CatB Video" (Barry Peddycord, 2013)](https://vimeo.com/63699095)
- * ["Looking Upside Down" (Cris Damasceno, 2013)])(https://vimeo.com/63699211)
+ * ["Looking Upside Down" (Cris Damasceno, 2013)](https://vimeo.com/63699211)
  * ["Digital Divide" (Tina Davidson, 2013)](https://vimeo.com/63821015)
  
 
