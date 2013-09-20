@@ -6,7 +6,7 @@ chapter: 3
 
 Patrick Thomas Morgan
 ---------------------
-![Title Image]({{ site.baseurl }}img/3_21c_morgan.png)
+![Title Image]({{ site.baseurl }}img/321c_morgan.png)
 
 <sup>Ascending the Mountain, Acadia National Park (Patrick Thomas Morgan, 2010)</sup>
 
@@ -54,3 +54,82 @@ Sitting underneath his plum tree on this balmy late-winter afternoon, Howard Rhe
 > then getting them set to divide up into teams around the questions, collaborating on
 > trying to pursue those questions on your own, without my guidance.<sup>4</sup>
 > 
+> (personal interview)
+
+In other words, Howard doesn't assume that any of the students are familiar with the digital tools, and—through a dialectic between the medium and the message—fosters an inquiry-based classroom at the same time that he enables the class to participate and collaborate within the digitally networked environment. Elaborating on Thomas and Seely Brown, Howard—by using digital literacies within the inquiry-based classroom—goes beyond "What are the things that we *don't* know and what questions can we ask about them?" to ask: *where* are the things that we don't know and how can we use the digital medium to ask better questions?
+
+After this first class, Howard then has the students work on their shared questions via the wiki until they reconvene face-to-face during the next class, sharing their progress, problems, and further questions. Laying the participatory groundwork, he also encourages the students—some of whom may be encountering these digital tools for the first time—to "continue the conversation in email, blog, or forum," encouraging them to see both himself and the rest of the class as a learning community.
+
+Like a cardboard box in the hands of a two-year-old, Howard's rubric for the first and second classes opens up a world of pedagogical possibilities. For example, if—as Howard tells us—the class lands upon a question for which there may be no clear answer, he sometimes poses the question as a debate, dividing the class into two groups and allowing each group to state their case. Throughout this co-learning process, there's one important thing to keep in mind, Howard tells us: he still very much wants the students to know what he thinks about the topics. "When I started" this co-learning process, Howard admits, "the evaluation that I got from the learners […] was: ‘oh, we took this course because we wanted to learn from you,'" thinking that Howard should have spoken up more often. "So now, I lecture in the context of conversation, more or less. But I know that it's very important to understand when to pipe down and let them go." Managing conversation with lecture is a subtle art, built on a tacit knowledge one gains only by trying the method on for size and learning from the process.
+
+Another point of departure for Howard's first-day classroom activity is, instead of asking questions, to have the students state their areas of ignorance, or spaces for growth: what aspect of the course description is driving their passion? What are they specifically aching to learn about? Approaching the first day from the standpoint of de-surfacing potential passions and areas of growth, as opposed to (or in addition to) de-surfacing questions would be a way to distance the class even further from the traditional question-to-answer funnel. (Though, admittedly, asking questions that derive from the students themselves already allows the classroom to challenge this traditional framework.) As Thomas and Seely Brown write, "Our educational system is built upon a structure that poses questions in order to find answers" (81). But "what if, for example, questions were more important than answers?" (Thomas and Seely Brown 81). What if uncovering educational enthusiasms was more important than forcing questions? What if a pedagogy that saw students as individuals with specific passions was more important than framing them as faceless, fungible widgets to be filled with knowledge? Howard's first-day activity provides a flexible and sensible method for concretely incorporating the principles of the new culture of learning, providing—in the process—the very skills the students require to transform the classroom from a physically limited space to an educational event constantly playing out around us.
+
+ 
+
+Digital Literacies Meet the Classroom: Attention Probes
+
+As students filter into his classroom during the first session of his digital media course, unfolding their laptops and booting their computers, Howard sometime throws them (the students, not the computers) for a loop: "‘Close your laptops,'" he says calmly (35). "‘Turn off your phones.'" "‘Now close your eyes'". He then gives the students sixty seconds to observe the natural flow of their attention, as their thoughts weave in and out of the twenty-four-hour news channel called the "modern mind." "‘Note how you don't have to work to make your mind wander,'" he points out. "‘It does that all on its own'" (35).
+
+Beginning in this way, Howard has planted the seed of mindfulness, and prompted his students to start learning that most fundamental of digital literacies: attention. "I've found that introducing a little mindfulness where previously there had been none can be insidiously irrevocable," says Howard. "Asking students to become conscious of their laptop use during class is like asking them to not think of a purple dinosaur" (36). He also uses this exercise to introduce the idea of attention probes, which, Howard explained from the shade of his plum tree, are activities and frameworks that "remind them that they've got their laptops open: is it open for a purpose?" He comes up with a new attention probe each week, all in the hopes of instilling a habit of self-reflection and self-awareness. This is not a resurrection of the 20th century classroom's Loch Ness Monster fiction of the laser-like über attention, in which "all eyes are on me," the teacher. Rather, it's an empowering pedagogical move that spurs students to start paying attention to attention.
+
+One simple attention probe involves having a timer and three sets of differently colored sticky notes. As Howard told us:
+
+> I ask them to be attentive to where they are putting their attention when their laptops are
+> open. I pose at the very beginning a goal to develop a little bit of that meta-cognition that
+> they are the observer—that [when you are checking your email,] you know that you're off
+> checking your email. Don't start taking notes and then slide into [checking your email]
+> without realizing it. [I help them focus their attention] with a number of attention probes:
+> one that I've used is to have something chime at a random interval, and then you distribute
+> sticky notes, and tell your students: "Write what you're honestly thinking; if it's directly
+> related to what is being discussed, write it on a yellow sticky note; if it's tangential, on
+> an orange sticky note; and if it has nothing to do with what is going on in the class, on a
+> red sticky note. I then stick the notes up on the whiteboard, and we get a little cross-section
+> of our attention at that moment.
+> 
+> (personal interview)
+
+Knowing that Howard is going to take a random cross-section of their attention, the students become, at the very last, a little bit more mindful than if the attention probe was never proffered. In other words, intention's relation to attention also works in the future tense: the students are primed by the attention probe, knowing the professor's intentions to carry it out, and are thereby that much more aware of their streams of thought.
+
+If the sticky-note attention probe seems like it might take up too much class time, there are many other possibilities. An attention probe can be as simple as creating the classroom norm of having students semi-close their laptop lids whenever they're not actively using their computers, communicating to the rest of the class that their attention is on them and not on the computer. "It's not just that I'm not sure whether they're paying attention to me," Howard told us. "It's disconcerting for the co-teaching team, who for the first time are taking the lead, and may not know where people are directing their attention."
+
+Ramping up the laptop probe to another level, Howard sometimes poses the attention probe as a collective action problem: he tells his class of fifty students that only five laptops can ever be open at one time during the class session (36). So if two other students wanted to open their computers while five other students were already working or taking notes on theirs, these two students would have to wait until two of the five students finished. "It forced the current five to be aware of their own attention in the context of other students who were waiting to Google my lecture (or slay monsters in a role-playing game)" (36). Framed another way, this five-laptop rule could also be a means for collective note-taking: five students take notes on the class wiki for the rest of the class, and the note-taking periodically switches to another five, allowing each student to both pay attention and respond in the moment while having a record of the discussion. Either way, attention probes, in the end, should act as a net benefit for the class, compelling students to begin the habit of practicing digital mindfulness.<sup>5</sup>
+
+ 
+
+Digital Literacies Meet the Classroom: Collective Action Problems
+
+Collective action problems consist of inquiry-based collaborative activities that incite (and excite) students to express their creativity and elasticity of thought within the structure of some kind of assignment or prompt. Howard, for example, borrowed from a colleague the idea of a class self-examination in which he asks each of the sixteen students in his class to email him a question that they think would indicate that the students read and thought deeply about the course's texts. As Howard told us: "Then I hand out sixteen tests and ask the students to take sixteen pieces of paper, write their name and the number of the question on each piece of paper, and then have the students answer each question on a separate piece of paper; next, I ask each student who has proffered a question to collect their question, and to grade them." The students, Howard says, enthusiastically undertook this assignment, although there was one snag, after the students asked how much the exam was going to count for their grade:   
+
+> I said, "It's not going to count on your exam—it's for fun!"  And the look I got from
+> them—it's like I'd said, "Would you like to come and clean my toilet?" They were
+> astonished and disgusted [by how the self-examination didn't "count" toward their
+> academic record]. And so I said: "Do you remember when learning was fun?" And you
+> could kind of see that they sort of did remember. […] It just shows that breaking
+> from the pattern of institutionalization requires a little bit of de-programming,
+> or self-de-programming.
+> 
+> (personal interview)
+
+Although allowing the students to create their own examination was met with excited expectation, the subsequent knowledge that the exam wasn't factored into their grade fomented verbal rebellion. Obviously, Howard could have taken the path of having the self-examination count toward each student's grade, though for Howard, the larger lesson within the activity was to bring them back to a time they could hardly remember: when learning was a passion that flowed up out of a creative mind, rather than an alienating framework forcing students into their institutionalized mind-forged manacles. One could also see how Howard could bring the collaborative activity to another level because it still falls short of Thomas and Seely Brown's new culture of learning insofar as the activity is still somewhat aligned with the teaching-based model of learning. "In the teaching-based approach," write Thomas and Seely Brown, "students must prove that they have received the information transferred to them—that they quite literally ‘get it.'" But in the "new culture of learning the point is to embrace what we don't know, come up with better questions about it, and continue asking those questions in order to learn more […] both incrementally and exponentially" (38). So one could modify Howard's activity, for example, by grounding the entire activity in the expectation that it should lead to deeper, more thought-provoking questions. Indeed, you could administer the exam just like Howard did, but instead of having the students simply answer the questions, prompt them to write an even better question. Or if this particular tenant of the new culture of learning is a little bit too radical for your own classroom needs, there is also the option of having the self-examination function as, for example, a mid-term, with the questions that arise out of this first activity feeding into the plans and discussions within the second half of the semester. The great thing about collective action problems like these is that they can be easily modified to fit most any pedagogical need.<sup>6</sup>
+
+In a 21st century world where knowledge has become a where and not a what, it's becoming ever more apparent that digital literacies are the essential skills that empower co-learners. If the new culture of learning is like a vibrant, living bacterial culture—as Thomas and Seely Brown suggest—playfully interacting and growing within the bounds of the Petri dish, then Howard Rheingold's five fundamental digital literacies are akin to the Q-tip swab of the inner cheek. That is, digital literacies provide that initial impetus for this new culture of learning to grow and flourish. By placing Rheingold's text in conversation with the inspiring work of Thomas and Seely Brown, I've tried to suggest ways one might transfer the highly practical lessons of Net Smart into the classroom environment. But inspiration is never a sure thing. Because, in the end, Howard Rheingold doesn't say that digital literacies will or must leverage the Web's architecture of participation. "Digital literacies can leverage the Web's architecture of participation, just as the spread of reading skills amplified collective intelligence five centuries ago. Today's digital literacies can make the difference between being empowered or manipulated, serene or frenetic" (3; emphasis mine). It's up to us to simultaneously practice and share them.
+
+ 
+
+Notes
+
+1A sense of agency, as Rheingold writes, is precisely what's needed and what digital literacies provide."Most important," writes Rheingold, "as people who are trying to get along day to day in a hyperscale, warp-speed civilization that seems so often to be beyond anyone's control, digital literacy is something powerful we can learn as well as exercise for ourselves and each other" (3).
+
+2There are of course many types of literacies and digital literacies: the traditional literacies of reading and writing, along with scientific literacy, program literacy, information and media literacy, and social and emotional intelligence (Rheingold 253). In her book Now You See It: How Technology and Brain Science Will Transform Schools and Business for the 21st Century, Cathy Davidson acknowledges Rheingold's digital literacies, while suggesting a few 21st century literacies of her own: global consciousness, design, affordance, narrative, procedural, digital divides, ethics, assessment, data mining, preservation, and sustainability (297-299).
+
+3 Indeed, the value of triangulating breaking news was clearly exhibited in the wake of the 2013 Boston Marathon Bombings. Reddit users, for example, failed to implement the literacy of critical consumption of information, leading to the false accusation of innocent citizens. See, for example,
+
+<http://www.huffingtonpost.com/2013/04/22/reddit-boston-marathon-apology-suspects_n_3133472.html> and <http://www.newyorker.com/online/blogs/comment/2013/04/reddit-tsarnaev-marathon-bombers-wisdom-of-crowds.html>.
+
+4Rheingold has recognized a potential problem in collaborative exercises like these. As he told us, the students "are not accustomed to having the group responsible for something. And usually, there are two or three really intelligent students who do most of the work, and often there are a couple who do nothing at all. And, so, the next week—the second class—I show them the revision history. I just show them: click here, and you can see who does the work." Students, in this way, can be held accountable for their own contributions.
+
+5Rheingold covers several other attention probes in Net Smart. One idea is to have your students keep a "log of their email behavior for a week, noting how their body and emotions felt, and how they were breathing while they were online," and then having them look for irregularities within the log. "‘Every single student discovered,' [David] Levy said in a talk to Google employees, ‘by doing this form of mindfulness practice, that there were certain things happening for them around email that were actually not what they wanted at all'" (Rheingold 73).
+
+6Another productive collaborative action problem that Rheingold uses is to have the co-teaching team delineate concepts, words, and phrases, and place them on the class wiki. And then everyone is in charge of helping to define these terms in the coming week. Howard described to us the benefits he's discovered of incorporating the creation of common terms in his digital media class: "If everybody does a little bit of something and there are sixteen of us, we can get a very impressive lexicon made by the time we're done with the quarter, and these are the words that you want to carry away with you—you want to know these words when you are dealing with social media in the future."
+
+ 
