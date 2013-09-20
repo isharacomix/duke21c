@@ -209,23 +209,25 @@ In the case of an excused health absence, you must still submit all individual w
 
  
 
-I, _x_, agree to earn a grade of _x_ in English/ISIS 390.  
+I, (name), agree to earn a grade of (grade) in English/ISIS 390.  
 
 In signing this contract, I understand and agree to perform all of the requirements stated above and outlined on the syllabus for English/ISIS 390. I further understand the penalties for failure to meet my contractual agreement.   
 
  
 
-Student's Signature: _x_  Date:_x_
+Student's Signature:
 
- 
+Date: 
 
-Witness Signature: _x_   Date:_X_
+Witness Signature:
 
-Witness Printed Name: _x_
+Date:
 
- 
+Witness Printed Name:
 
-Professor Cathy N. Davidson: _x_   Date:_x_
+Professor Cathy N. Davidson:
+
+Date:
  
 
 
