@@ -1,7 +1,6 @@
 ---
 layout: chapter
-title: The Medium of the 21st Century Is Light;
-or, How Earbuds Became Earlids: Field Notes on the Digital Medium for Teachers and Learners in an Age of Data, Bandwidth, Cables, Photo Optics, Scanners, Lasers, Printers, Fiber Optics, and All Other Things Digital and Otherwise in a Post-McLuhan Electronic Age, etc.
+title: The Medium of the 21st Century Is Light; or, How Earbuds Became Earlids: Field Notes on the Digital Medium for Teachers and Learners in an Age of Data, Bandwidth, Cables, Photo Optics, Scanners, Lasers, Printers, Fiber Optics, and All Other Things Digital and Otherwise in a Post-McLuhan Electronic Age, etc.
 chapter: 5
 ---
 
