@@ -174,6 +174,9 @@ Teaching Critical Thinking:
 
 Social Bookmarks:
 
+<https://delicious.com/>
+
+
  
 
 "In the Context of Web Context: How to Check Out Any Web Page":
