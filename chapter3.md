@@ -147,3 +147,50 @@ Rheingold, Howard. Net Smart: How to Thrive Online. Cambridge,Massachusetts: MIT
 
 Thomas, Douglas, and John Seely Brown. A New Culture of  Learning: Cultivating the Imagination for a World of Constant Change. Lexington, Kentucky: CreateSpace Independent Publishing Platform, 2011. Print.
 
+Resources
+---------
+Net SmartResources:
+
+<http://rheingold.com/netsmart/> <http://rheingold.com/books/net-smart/>
+
+Douglas Thomas on The New Culture of Learning: <http://www.youtube.com/watch?v=lM80GXlyX0U>
+
+Howard Rheingold on Net Smart: <http://www.youtube.com/watch?v=eKvtG4H1y5I>
+
+
+Critical Thinking Resources:
+
+<http://www.huffingtonpost.com/betsy-aoki/critical-thinking-roundup_b_642945.html>
+
+<http://critical-thinking.iste.wikispaces.net/Crap+Detection+101>
+
+ 
+
+Teaching Critical Thinking:
+
+<http://www.microsoft.com/education/en-us/teachers/guides/Pages/critical_thinking.aspx>
+
+ 
+
+Social Bookmarks:
+
+<https://delicious.com/>
+
+<https://www.diigo.com/>
+
+ 
+
+Question-and-Answer Websites:
+
+<http://www.formspring.me/>
+
+<https://www.quora.com/>
+
+ 
+
+"In the Context of Web Context: How to Check Out Any Web Page":
+
+<http://www.wordyard.com/2010/09/14/in-the-context-of-web-context-how-to-check-out-any-web-page/>
+
+ 
+
