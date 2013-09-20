@@ -209,23 +209,6 @@ In the case of an excused health absence, you must still submit all individual w
 
  
 
-I, ___________________________________, agree to earn a grade of ______ in English/ISIS 390.  
-
-In signing this contract, I understand and agree to perform all of the requirements stated above and outlined on the syllabus for English/ISIS 390. I further understand the penalties for failure to meet my contractual agreement.   
-
- 
-
-Student's Signature: ____________________________  Date:_______________
-
- 
-
-Witness Signature: _____________________________   Date:______________
-
-Witness Printed Name: __________________________
-
- 
-
-Professor Cathy N. Davidson: _____________________   Date: _____________
  
 
 
@@ -273,3 +256,92 @@ How did you find out about the website? How would someone else find out about th
  
 
  
+Digital Badges
+--------------
+If you ask students what they hate most in a class they will often say "group work." No wonder! Corporations spend billions of dollars in helping their employees learn how to "play well together" but teachers often throw three or four students into a group and expect them to just somehow know how to produce significant intellectual content to which everyone contributes equally (as if that happens naturally in every academic department!). Collaboration is difficult.
+
+One system that open source programmers came up with to reward those who contribute generously and consistently and wisely to a collaboration (often anonymous when coding over the Web) is by offering digital badges. In 2012-2013, the HASTAC/MacArthur Foundation Digital Media and Learning Competition sponsored several research and development competitions on peer badging and how they could be used for learning. To learn more about digital badges, you can visit this annotated bibliography of nearly 200 sources on badges prepared by Sheryl Grant and Kristan Swago of the HASTAC team: [http://hastac.org/collections/digital-badges](http://hastac.org/collections/digital-badges).
+
+In Cathy Davidson's undergraduate Surprise Endings courses, students awarded one another badges. Each member of a peer learning team was asked to award a badge (only one) to any member of the peer team who had contributed significantly in an area. Approximately twelve areas were defined. The members then came together and looked at who had awarded badges to whom. In some cases, the results were remarkably balanced and it was clear each member was contributing according to the jobs and tasks they had been assigned by the group (they also wrote out task descriptions for each team member, with one assistant peer leader to help for each task).
+
+Badges were also awarded for leadership, implementation, creativity, and other characterological and management practices essential to good collaboration. The team of four assistant instructors (TAs who were also learning how to engage in peer teaching) worked with each team to help evaluate the badge systems and use that as a useful rubric to readjust collaborative practices where needed.
+
+On the next page you will find the document we used in the first peer-badging exercise. In subsequent ones, each team worked together to compose the categories they felt were important and then followed the procedure described above.
+
+SAMPLE PEER BADGING EXERCISE
+----------------------------
+![Header image]({{ site.baseurl }}img/sample_header.png)
+### Peer Badging  20-minute collaboration exercise
+
+Steps:
+
+1.  2 minutes. No consultation please. Please write your name in the top box under "team member name" and then your three teammates, alphabetic by first name is easiest. Then go through each column and make no more than one mark/badge per category. Be generous.  But you do not have to award a badge if you think no one on your team has earned one in a particular category. After 2 minutes, hand all four sheets to one person from your team.
+2.  1 minute. The team recorder records all the marks/badges on one sheet. Some people might have four marks in one category, some not.
+3.  5 minutes. Together review the distribution of the badges. Do you see any patterns? Do you like what you see? Do you want to make changes (indicate changes in parenthesis).    
+4.  12 minutes.If you don't like the distribution of the badges and want to make changes in how you are divvying up the work so that the result is spread more evenly across all members of the group, come up with a plan for how and what you can all do, together, to fix it. Please make notes to this effect in the space below the grid. One of the Assistant Teachers will collect these sheets. 
+
+![Badging Grid]({{ site.baseurl }}img/apd_badging.png)
+
+Grid Categories:
+ * Team Member Name
+ * Leader
+ * Problem Solver
+ * Organizer
+ * Good Spirit
+ * Finisher
+ * Filmmaker
+ * Film Editor 
+ * Firestarter (ideas)
+ * Implementer (gets stuff done)
+ * Artistic Design
+ * Learning Design
+ * Other 
+ * Overall Great Collaborative Partner 
+
+ 
+Appendix Five: Contributors
+===========================
+
+![Us]({{ site.baseurl }}img/authors.jpg)
+
+Cristiane Sommer Damasceno
+--------------------------
+Originally from Brazil, Cristiane holds a Master of Science in Communication from North Carolina State University and is pursuing her PhD in the Communication, Rhetoric, and Digital Media program at NC State. Her research interest is related to communication, technology, and education and her most recent academic work is a thesis project entitled "Mind the Clash: Attention and Sociotechnical Practices in Formal Learning Settings." Besides being a full-time student, Cristiane is also a public speaking instructor.
+
+Omar Daouk
+----------
+Omar is a recent Masters graduate of Duke University's interdisciplinary program in Humanities. Under the mentorship of Dr. Dan Ariely, Behavioral Economics has been Omar's area of specialty in graduate school, with particular emphasis on the creative application of the field's fundamental principles. As a double major in Finance and International Marketing from Boston University's School of Management, Omar has found an interesting middle ground between the managerial, creative, and academic worlds, and proceeds forward in his career with enthusiasm for bridging the gaps between these seemingly disparate fields.     
+
+
+Cathy N. Davidson
+-----------------
+Recently appointed by President Obama to the National Council on the Humanities, Cathy N. Davidson has published more than twenty books, including Now You See It: How the Brain Science of Attention Will Transform the Way We Live, Work, and Learn (Viking Penguin 2011) and The Future of Thinking:  Learning Institutions in a Digital Age (with David Theo Goldberg, MIT Press 2010). Cathy Davidson teaches at Duke University, where she co-directs the PhD Lab in Digital Knowledge and holds two distinguished chairs (Ruth F. DeVarney Professor of English and the John Hope Franklin Humanities Institute Professor of Interdisciplinary Studies). She served as Duke's first Vice Provost for Interdisciplinary Studies and helped to create the Program in Information Science + Information Studies and the Center for Cognitive Neuroscience. She is a cofounder of the global learning network HASTAC (Humanities, Arts, Science and Technology Advanced Collaboratory), with over 10,000 members. HASTAC administers the annual $2 million HASTAC/MacArthur Foundation Digital Media and Learning Competitions and has awarded and mentored eighty-nine Connected Learning projects in over twenty countries. In October 2012, she and HASTAC cofounder David Theo Goldberg received the Educator of the Year award from the World Technology Network in recognition of their "visionary contribution to science and technology in education." Davidson is the first educator to be invited to join the Board of Directors of Mozilla.
+
+Christina C. Davidson
+---------------------
+A native of Skokie, Illinois, Christina C. Davidson is a PhD graduate student in the history Department at Duke University, where she received her MA in 2013. A 2009 graduate of Yale University (BA), Christina majored in Latin American Studies and International Studies. At Duke, she specializes in modern Caribbean and Afro-Latin American history. She is particularly interested in questions of race, religion, and transnational identity. Her dissertation project will examine the dynamics of US empire building and Protestant missionization in the Spanish Caribbean at the turn of the 20th century. Beyond her studies in history, Christina is also a member of the PhD Lab in Digital Knowledge and a 2012-2013 HASTAC Scholar. Christina blogs for HASTAC and is a co-founder of the Digital History Working Group at Duke.
+
+Jade E. Davis
+-------------
+...is finishing her PhD in the department of Communication Studies at the University of North Carolina at Chapel Hill where she studies under the direction of Ken Hillis. She holds an MA from NYU's Institute of French Studies and a BA from the University of Hawaii at Manoa. Her primary research centers on how digitization and social media effect how we know and understand culture and society. She is also interested in big data, ethnomining, and their effects and potential for use in critical ethnographic work in digital environments. She has been an active HASTAC scholar since 2010 and is a member of the steering committee. She's the regional organizer for THATCamp RTP. Additionally, in the Summer of 2013 joined Microsoft Research New England as a Summer Research Intern with the Social Media Collective. She is also a member of the first inter-institutional cohort of students in the PhD Lab in Digital Knowledge at Duke University.     
+
+Patrick Thomas Morgan
+---------------------
+Currently working toward his PhD in English at Duke University, Patrick Thomas Morgan is a former geologist and science journalist whose research focuses on theories of nature and the human—such as the relation between geology and literature—in 19th century American and transatlantic texts. As a geologist, he studied micro-fauna and climate change, presenting his research ("Late Holocene Climate Variability and Implications for the Onset of Arroyo Incision along the Little Dolores River, Western Colorado" and "Dacryoconarids and the Eifelian-Givetian Boundary (Middle Devonian) in the Marcellus Shale of Western New York State") at Geological Society of America conferences. His journalism appears in DISCOVER magazine, EARTH magazine, and The American Gardener, in addition to DISCOVER's in-house blogs, 80beats and Discoblog. Most recently, Patrick co-wrote alongside Priscilla Wald the March 2013 preface to American Literature's Thoreau Symposium, tracing how "the figure of the human occasions a shift in the modes of engagement, including reading practices, through which human beings, and humanists, make sense of lived experience." Leading science and literature critic Laura Dassow Walls has called Patrick's scholarly work a "surprising discovery," referring to his 2010 publication, "Aesthetic Inflections: Thoreau, Gender, and Geology" in theConcord Saunterer: A Journal of Thoreau Studies.   
+
+Barry Peddycord III
+-------------------
+Barry holds a Master of Science in Computer Science from North Carolina State University and is pursuing his PhD at the NC State Center for Educational Informatics. Barry's research interests lie at the intersection of technology and learning, building on an eclectic background of research projects ranging from network analysis to cybersecurity. Barry participates in educational outreach as a leader in both the Triangle and NC State Linux Users Groups as an advocate for the adoption of open source software, especially in education and government.
+
+
+Elizabeth A. Pitts
+------------------
+As a doctoral student in NC State's Communication, Rhetoric, and Digital Media program, Elizabeth Pitts studies online information design, participatory culture, and technical and scientific communication. Her research stems from a long-term interest in making higher education more accessible and affordable, especially for adult and part-time students. Before enrolling at NC State, Elizabeth spent more than a decade producing education-focused strategic communications. At the White House, she led a team of writers responsible for drafting letters and instructional materials for schoolchildren. At the US Department of Education, she developed speeches, Congressional testimony, and other documents for Secretary Margaret Spellings. Elizabeth has also served as an adjunct professor of academic and professional writing at University of Maryland University College and as a writer for The Pew Charitable Trusts.In 2013, Elizabeth was awarded a fellowship from the National Science Foundation's IGERT program, which supports collaborative interdisciplinary research spanning science, technology, engineering, mathematics and social sciences. She also became one of the first students at NC State to join Duke University's PhD Lab in Digital Knowledge, a community of learners dedicated to generating new forms of pedagogy and shaping novel modes of scholarship in digital environments. Elizabeth lives in Raleigh with her husband, Jonathan Janis.
+
+Jennifer Stratton
+-----------------
+...is an interdisciplinary researcher, artist, educator, thinker and maker. Her work is centered in biophilia, community storytelling, experimental pedagogy, play and the ephemeral magic that happens when light meets surface. She grew up with a strong spirit of exploration as a third culture kid, constantly moving around the globe with her family. For the past several years she has worked in vfx/integrated content production, interactive design and data visualization, while concurrently, teaching documentary and animation workshops. She is interested in creative intersections between scientific research, art, and social landscapes. Her art practice and research blends visual ethnography, ephemeral performance, tactile materials, and sonic signals to explore fragmented identities and evolving estrangements between individuals, communities and the natural world.In 2012 Jennifer was awarded an Embassy Science Fellowship from DOI/the US Department of State. She is an active participant at HASTAC and the Speculative Computing (S-1) Lab,and was recently an Artist-in-Residence at the Nicholas School of the Environment's Marine Lab. She is currently a Research Assistant/Scholar at the Franklin Humanities Institute PhD Lab in Digital Knowledge at Duke University.
+
+ 
+
+
