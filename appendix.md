@@ -154,3 +154,122 @@ Appendix Four: Useful Sample Documents for Open Peer Teaching and Learning
 
 Several different kinds of documents proved useful in helping to shape our collaboration and this experiment in open peer teaching and learning. We offer these here as samples for you to remix for your own purposes.
 
+Grading Contract
+----------------
+We ended up not using a formal contract in 21st Century Literacies, partly because it was clear from the outset the high degree of commitment each member had to the co-creation of a meaningful, important, exploratory learning experience. However, we studied a formal grading contract that Cathy Davidson used in the same semester (Spring 2013) with her undergraduate class co-taught with behavioral economist Dan Ariely, "Surprise Endings:  Social Science and Literature": [http://sites.duke.edu/english390-5_01_s2013/](http://sites.duke.edu/english390-5_01_s2013/). 
+
+In this course, every student signed a contract agreeing to complete successfully and on time a certain amount of work for the class. If a student had a busy term and wanted to do less work, he or she could contract for a C, for example, and not do two or three of the required assignments. However, if a student failed to abide by the terms of the contract (signed and co-signed by another student and by the professor), there was not just a lower grade but a penalty, lowering the grade a full level or, if the student failed in a collaborative project, two levels.
+
+The peer-grading component came into play over what constituted "satisfactory" completion of the week's work. Since all the work was assigned by teams of students who created the weekly lessons for the class (setting the readings and video viewings, the writing or experimental assignments and so forth), those students were also responsible for determining if their classmates had successfully met their contract for the week and had to fill out a sheet indicating "yes" or "no" for contract compliance. This method has been described here, "How to Crowdsource Grading": [http://hastac.org/blogs/cathy-davidson/how-crowdsource-grading](http://hastac.org/blogs/cathy-davidson/how-crowdsource-grading). On the following pages is a sample grading contract for an A in "Surprise Endings."
+
+SAMPLE GRADE CONTRACT
+---------------------
+![Header image]({{ site.baseurl }}img/sample_header.png)
+
+
+### Contract Grading + Peer Evaluation:  Explanation and Contract
+
+Evaluation Method
+
+Contract grading is not for everyone. If you are uncomfortable signing a contract at the beginning of the class for your grade and offering evaluation to your peers on how well they are fulfilling their contractual obligations in the course, you should consider a different course. In contract grading, you know in advance what your workload and responsibilities will be and you know that you will receive the grade for that amount of work if you fulfill your work satisfactorily (as determined by peers and instructors). The advantage of contract grading to the student is you can plan ahead and decide on the work level you want and earn a grade commensurate with that level. The advantage of contract grading to the professor is no whining. In an ideal course graded by the contract method, every student achieves the grade for which they contracted at the beginning of the class. There is no curve. The standard is excellence.
+
+When contracting to earn an A in English/ISIS 390 you agree to:
+
+ * Carry out all the reading, pre-class public blogging, and assignments given to you by the other students on schedule as detailed in the syllabus; and
+ * Complete all the team project requirements spelled out on the syllabus plus the group feedback sessions on schedule.  
+
+When contracting to earn a B in English/ISIS 390 you agree to:
+
+ * Carry out all but one ofthe reading, pre-class public blogging, and assignments given to you by the other students on schedule as detailed in the syllabus; and
+ * Complete all the team project requirements spelled out on the syllabus plus the group feedback sessions on schedule.  
+
+When contracting to earn a C in English/ISIS 390 you agree to:
+
+ * Carry out all but two ofthe reading, pre-class public blogging, and assignments given to you by the other students on schedule as detailed in the syllabus; and
+ * Complete all the team project requirements spelled out on the syllabus plus the group feedback sessions on schedule.  
+
+When contracting to earn a D in English/ISIS 390 you agree to:
+
+ * Carry out all but three ofthe reading, pre-class public blogging, and assignments given to you by the other students on schedule as detailed in the syllabus; and
+ * Complete all the team project requirements spelled out on the syllabus plus the group feedback sessions on schedule.  
+
+### Two-Grade Penalty for Not Fulfilling Your Project Team Obligations
+
+If your project team partners give you feedback that you are not meeting the expectations of the team, and you do not accept their feedback and improve your contribution to their standards, you will receive an automatictwo-grade reduction (one grade deduction for failing to do the work satisfactorily and a second grade deduction for jeopardizing the success of others on your team.)
+
+### One-Grade Penalty for Not Fulfilling Your Contractual Agreements
+
+When you contract for a certain grade, you are agreeing to fulfill the work commensurate with that grade. If you fail to fulfill the work designated by your individual contracted terms, your final grade will reflect an additional full grade penalty deduction. For example, if a student submits a contract for an A, but does all but two of the individual assignments on schedule (commensurate with a C), then that person would receive a D for their final grade.
+
+### Excused absences
+
+In the case of an excused health absence, you must still submit all individual work as contracted within one week after the deadline.  For the team project, your team will decide what constitutes a satisfactory make-up contribution to the success of the team project.      
+
+### Contract
+
+ 
+
+I, ___________________________________, agree to earn a grade of ______ in English/ISIS 390.  
+
+In signing this contract, I understand and agree to perform all of the requirements stated above and outlined on the syllabus for English/ISIS 390. I further understand the penalties for failure to meet my contractual agreement.   
+
+ 
+
+Student's Signature: ____________________________  Date:_______________
+
+ 
+
+Witness Signature: _____________________________   Date:______________
+
+Witness Printed Name: __________________________
+
+ 
+
+Professor Cathy N. Davidson: _____________________   Date: _____________
+ 
+
+
+ 
+Peer Evaluation Surveys
+-----------------------
+At several points in the semester, we brought in websites that we were developing for the class and for each participant's own individual work.  We were motivated by a framing comment by architect and learning designer Ann Pendleton-Jullian, who visited our class:  "Design has the capacity to shape contexts as frames for things to happen."  You can read more about her visit here: [http://hastac.org/blogs/hilary-culbertson/2013/03/14/cathy-davidson-re-designing-learning-democracy](http://hastac.org/blogs/hilary-culbertson/2013/03/14/cathy-davidson-re-designing-learning-democracy). 
+
+In order to help us "frame" our evaluation of one another's digital work, to see if it truly was a "frame" that enabled "things to happen," we used the following peer evaluation forms that we then discussed as a group and passed on to the developer, in the form of an "art crit" session.
+
+SAMPLE PEER EVALUATION FORM
+---------------------------
+![Header image]({{ site.baseurl }}img/sample_header.png)
+
+> "Design has the capacity to shape contexts as frames for things to happen, framing contexts writ large on the level of multiple, time-based ecologies—social, economic, political, environmental, and cultural—from material contexts to institutions to systems of action/change and even the contexts surrounding some of our most intractable problems."  --- Ann Pendleton-Jullian
+
+ 
+
+Looking at the website, what do you think are the goals of this website?
+
+ 
+
+Who do you think is the intended audience? Do you feel this is for you?
+
+ 
+
+How would you characterize the creator of the website? How would you characterize the work on the website?
+
+ 
+
+Does the website invite you to action? If so, what action?  (e.g., reading, commenting, hiring, giving money)
+
+ 
+
+What are the interactive features of the website?
+
+ 
+
+What social media does this website promote, support, allow, encourage?
+
+ 
+
+How did you find out about the website? How would someone else find out about this website?
+
+ 
+
+ 
