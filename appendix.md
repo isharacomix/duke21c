@@ -209,23 +209,23 @@ In the case of an excused health absence, you must still submit all individual w
 
  
 
-I, &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;_, agree to earn a grade of &#32;&#32;&#32;&#32;&#32;&#32; in English/ISIS 390.  
+I, _x_, agree to earn a grade of _x_ in English/ISIS 390.  
 
 In signing this contract, I understand and agree to perform all of the requirements stated above and outlined on the syllabus for English/ISIS 390. I further understand the penalties for failure to meet my contractual agreement.   
 
  
 
-Student's Signature: &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;  Date:&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;_
+Student's Signature: _x_  Date:_x_
 
  
 
-Witness Signature: &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;_   Date:&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+Witness Signature: _x_   Date:_X_
 
-Witness Printed Name: &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+Witness Printed Name: _x_
 
  
 
-Professor Cathy N. Davidson: &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;_   Date: &#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;_
+Professor Cathy N. Davidson: _x_   Date:_x_
  
 
 
