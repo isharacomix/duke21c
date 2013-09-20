@@ -7,6 +7,8 @@ chapter: 0
 A Guide to New Theories, Methods, and Practices for Open Peer Teaching and Learning
 -----------------------------------------------------------------------------------
 
+![Cover]({{ site.baseurl }}img/21c_mockup3_digest.jpg)
+
 
 Written and Edited by The 21st Century Collective
  * Cristiane Damasceno
