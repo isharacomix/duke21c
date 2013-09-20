@@ -6,7 +6,7 @@ chapter: 3
 
 Patrick Thomas Morgan
 ---------------------
-![Title Image]({{ site.baseurl }}img/321c_morgan.png)
+![Title Image]({{ site.baseurl }}img/3_21c_morgan.png)
 
 <sup>Ascending the Mountain, Acadia National Park (Patrick Thomas Morgan, 2010)</sup>
 
@@ -28,7 +28,7 @@ Considering how beneficial it is to practice and share the essentials of social 
  
 
 Digital Literacies
-
+------------------
 In his book, Howard Rheingold delineates five fundamental digital literacies, or "expressive and interpretive skills with a social element, grounded in a shared context": the digital literacies of attention, critical consumption of information (aka "crap detection"), participation, collaboration, and network smarts (252).<sup>2</sup> It would take an entire book to adequately explain these literacies (indeed, it is a book: Net Smart), and since my goal is to provide some worked examples of how one might integrate some of these literacies into the classroom, I'd like to briefly define each of the five literacies before diving into the classroom.
 
 As Howard writes, your most fundamental technological affordance is your own attention (9). Trying to be mindful on the web before you've practiced mindfulness in your own life is like trying to outrun 2012 Olympian Usain "Lightning" Bolt before you've learned how to walk. It doesn't work, which is why the digital literacy of attention focuses on ways to cultivate mindfulness. Dipping into a pop-science version of modern neuroscience, Rheingold invokes neuroscientist Carla Shatz's apothegm—"neurons that fire together wire together"—in order to show that simply aiming your awareness at your breath (i.e. spending a little time each day counting your exhalations) allows you to transform your breath into a tool for mindfulness (72). That is, you can begin to practice the digital literacy of attention simply by noticing your attention: intention leads to attention. "Attention connects the events that occur simultaneously in the mind, between people, and among technologies," writes Howard. "Human thought processes are themselves no more than a part—a kind of focusing lens—of a system that includes neurons, symbols, search engines, social systems, and computational clouds" (33).
@@ -42,7 +42,7 @@ The last two fundamental digital literacies—collaboration and network smarts�
  
 
 Digital Literacies Meet the Classroom: The First Day
-
+----------------------------------------------------
 Sitting underneath his plum tree on this balmy late-winter afternoon, Howard Rheingold told us a story about how he uses a pedagogical technique he borrowed from Cathy Davidson in order to introduce his students—both graduates and undergraduates—to the basic utility of wikis, which are websites and documents that allow multiple instantaneous changes, such as Google Sites or Google Drive. On the first day of class, Howard says, "the first thing I do is have them ask questions." He divides the class into groups of four, and—borrowing Cathy's technique—invites them to "take ninety seconds to write down the three most important questions you'd like to have answered by the end of this course." By using this de-surfacing technique, Howard helps to define the class from the start as a space of inquiry, given how, as Thomas and Seely Brown write, "Inquiry is the process by which we ask not ‘What is it that we know?' but ‘What are the things that we don't know and what questions can we ask about them?'" (83). To this capacity for inquiry he then adds the empowering agency of digital literacies, which allow the students to continue this inquiry outside the limited spatial and temporal confines of the classroom. As Howard continues:
 
 > And then when I have the groups report out—having distilled them down to four different
@@ -67,7 +67,7 @@ Another point of departure for Howard's first-day classroom activity is, instead
  
 
 Digital Literacies Meet the Classroom: Attention Probes
-
+-------------------------------------------------------
 As students filter into his classroom during the first session of his digital media course, unfolding their laptops and booting their computers, Howard sometime throws them (the students, not the computers) for a loop: "‘Close your laptops,'" he says calmly (35). "‘Turn off your phones.'" "‘Now close your eyes'". He then gives the students sixty seconds to observe the natural flow of their attention, as their thoughts weave in and out of the twenty-four-hour news channel called the "modern mind." "‘Note how you don't have to work to make your mind wander,'" he points out. "‘It does that all on its own'" (35).
 
 Beginning in this way, Howard has planted the seed of mindfulness, and prompted his students to start learning that most fundamental of digital literacies: attention. "I've found that introducing a little mindfulness where previously there had been none can be insidiously irrevocable," says Howard. "Asking students to become conscious of their laptop use during class is like asking them to not think of a purple dinosaur" (36). He also uses this exercise to introduce the idea of attention probes, which, Howard explained from the shade of his plum tree, are activities and frameworks that "remind them that they've got their laptops open: is it open for a purpose?" He comes up with a new attention probe each week, all in the hopes of instilling a habit of self-reflection and self-awareness. This is not a resurrection of the 20th century classroom's Loch Ness Monster fiction of the laser-like über attention, in which "all eyes are on me," the teacher. Rather, it's an empowering pedagogical move that spurs students to start paying attention to attention.
@@ -97,7 +97,7 @@ Ramping up the laptop probe to another level, Howard sometimes poses the attenti
  
 
 Digital Literacies Meet the Classroom: Collective Action Problems
-
+-----------------------------------------------------------------
 Collective action problems consist of inquiry-based collaborative activities that incite (and excite) students to express their creativity and elasticity of thought within the structure of some kind of assignment or prompt. Howard, for example, borrowed from a colleague the idea of a class self-examination in which he asks each of the sixteen students in his class to email him a question that they think would indicate that the students read and thought deeply about the course's texts. As Howard told us: "Then I hand out sixteen tests and ask the students to take sixteen pieces of paper, write their name and the number of the question on each piece of paper, and then have the students answer each question on a separate piece of paper; next, I ask each student who has proffered a question to collect their question, and to grade them." The students, Howard says, enthusiastically undertook this assignment, although there was one snag, after the students asked how much the exam was going to count for their grade:   
 
 > I said, "It's not going to count on your exam—it's for fun!"  And the look I got from
@@ -117,7 +117,7 @@ In a 21st century world where knowledge has become a where and not a what, it's 
  
 
 Notes
-
+-----
 1: A sense of agency, as Rheingold writes, is precisely what's needed and what digital literacies provide."Most important," writes Rheingold, "as people who are trying to get along day to day in a hyperscale, warp-speed civilization that seems so often to be beyond anyone's control, digital literacy is something powerful we can learn as well as exercise for ourselves and each other" (3).
 
 2: There are of course many types of literacies and digital literacies: the traditional literacies of reading and writing, along with scientific literacy, program literacy, information and media literacy, and social and emotional intelligence (Rheingold 253). In her book Now You See It: How Technology and Brain Science Will Transform Schools and Business for the 21st Century, Cathy Davidson acknowledges Rheingold's digital literacies, while suggesting a few 21st century literacies of her own: global consciousness, design, affordance, narrative, procedural, digital divides, ethics, assessment, data mining, preservation, and sustainability (297-299).
