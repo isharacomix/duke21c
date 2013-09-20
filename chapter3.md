@@ -139,4 +139,11 @@ Works Cited
 -----------
 Bindley, Katherine. "Reddit Apologizes for Speculating About  Boston Marathon Suspects." Huffington Post. 23 April 2013. Web. Accessed 1 May 2013. <http://www.huffingtonpost.com/2013/04/22/reddit-boston-marathon-apology-suspects_n_3133472.html>.
 
+Davidson, Cathy. Now You See It: How Technology and Brain  Science Will Transform Schools and Business for the 21stCentury. New York: Penguin, 2011. Print.
+
+Surowiecki, James. "The Wise Way to Crowdsource a Manhunt." The New Yorker. 24 April 2013. Web. Accessed 1 May 2013  <http://www.newyorker.com/online/blogs/comment/2013/04reddit-tsarnaev-marathon-bombers-wisdom-of-crowds.html>.
+
+Rheingold, Howard. Net Smart: How to Thrive Online. Cambridge,Massachusetts: MIT Press, 2012. Print.---. Personal interview. 26 Feb. 2013.
+
+Thomas, Douglas, and John Seely Brown. A New Culture of  Learning: Cultivating the Imagination for a World of Constant Change. Lexington, Kentucky: CreateSpace Independent Publishing Platform, 2011. Print.
 
