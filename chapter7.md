@@ -28,11 +28,11 @@ It is important to recognize that like all "universal" design choices the QWERTY
 
 Looking beyond the keyboard, up at the kitchen space where I work, visible design feels omnipresent. As I write, image notifications pop up on the screen from my Instagram feed (@jjstratto), while circular slices of radishes lay on the table, neatly arranged on a cutting board for eventual input into a salad. This juxtaposition of the organic and digital designs reflects how the human sensorium now treats organic and digital material as an extension of one another. In the 1967 landmark text The Medium Is the Massage, media theorist Marshall McLuhan draws attention to daily design in regards to 21st century television culture:
 
- > "The medium or process of our time-electric technology is reshaping and restructuring
- > patterns of social-interdependence. It is forcing us to reconsider and re-evaluate
- > practically every thought, every action and every institution formerly taken for
- > granted. Everything is changing; you, your family, your education, your neighborhood,
- > your job, your government, your relationship to the other. And they're changing dramatically ."
+> "The medium or process of our time-electric technology is reshaping and restructuring
+> patterns of social-interdependence. It is forcing us to reconsider and re-evaluate
+> practically every thought, every action and every institution formerly taken for
+> granted. Everything is changing; you, your family, your education, your neighborhood,
+> your job, your government, your relationship to the other. And they're changing dramatically ."
 
 ![Coffee]({{ site.baseurl }}img/7-3_coffee.png)
 
