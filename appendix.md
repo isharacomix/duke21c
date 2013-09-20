@@ -209,7 +209,7 @@ In the case of an excused health absence, you must still submit all individual w
 
  
 
- 
+I, _...................._, agree to earn a grade of 
 
 
  
