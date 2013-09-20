@@ -118,18 +118,142 @@ In a 21st century world where knowledge has become a where and not a what, it's 
 
 Notes
 
-1A sense of agency, as Rheingold writes, is precisely what's needed and what digital literacies provide."Most important," writes Rheingold, "as people who are trying to get along day to day in a hyperscale, warp-speed civilization that seems so often to be beyond anyone's control, digital literacy is something powerful we can learn as well as exercise for ourselves and each other" (3).
+1: A sense of agency, as Rheingold writes, is precisely what's needed and what digital literacies provide."Most important," writes Rheingold, "as people who are trying to get along day to day in a hyperscale, warp-speed civilization that seems so often to be beyond anyone's control, digital literacy is something powerful we can learn as well as exercise for ourselves and each other" (3).
 
-2There are of course many types of literacies and digital literacies: the traditional literacies of reading and writing, along with scientific literacy, program literacy, information and media literacy, and social and emotional intelligence (Rheingold 253). In her book Now You See It: How Technology and Brain Science Will Transform Schools and Business for the 21st Century, Cathy Davidson acknowledges Rheingold's digital literacies, while suggesting a few 21st century literacies of her own: global consciousness, design, affordance, narrative, procedural, digital divides, ethics, assessment, data mining, preservation, and sustainability (297-299).
+2: There are of course many types of literacies and digital literacies: the traditional literacies of reading and writing, along with scientific literacy, program literacy, information and media literacy, and social and emotional intelligence (Rheingold 253). In her book Now You See It: How Technology and Brain Science Will Transform Schools and Business for the 21st Century, Cathy Davidson acknowledges Rheingold's digital literacies, while suggesting a few 21st century literacies of her own: global consciousness, design, affordance, narrative, procedural, digital divides, ethics, assessment, data mining, preservation, and sustainability (297-299).
 
-3 Indeed, the value of triangulating breaking news was clearly exhibited in the wake of the 2013 Boston Marathon Bombings. Reddit users, for example, failed to implement the literacy of critical consumption of information, leading to the false accusation of innocent citizens. See, for example,
+3: Indeed, the value of triangulating breaking news was clearly exhibited in the wake of the 2013 Boston Marathon Bombings. Reddit users, for example, failed to implement the literacy of critical consumption of information, leading to the false accusation of innocent citizens. See, for example,
 
 <http://www.huffingtonpost.com/2013/04/22/reddit-boston-marathon-apology-suspects_n_3133472.html> and <http://www.newyorker.com/online/blogs/comment/2013/04/reddit-tsarnaev-marathon-bombers-wisdom-of-crowds.html>.
 
-4Rheingold has recognized a potential problem in collaborative exercises like these. As he told us, the students "are not accustomed to having the group responsible for something. And usually, there are two or three really intelligent students who do most of the work, and often there are a couple who do nothing at all. And, so, the next week—the second class—I show them the revision history. I just show them: click here, and you can see who does the work." Students, in this way, can be held accountable for their own contributions.
+4: Rheingold has recognized a potential problem in collaborative exercises like these. As he told us, the students "are not accustomed to having the group responsible for something. And usually, there are two or three really intelligent students who do most of the work, and often there are a couple who do nothing at all. And, so, the next week—the second class—I show them the revision history. I just show them: click here, and you can see who does the work." Students, in this way, can be held accountable for their own contributions.
 
-5Rheingold covers several other attention probes in Net Smart. One idea is to have your students keep a "log of their email behavior for a week, noting how their body and emotions felt, and how they were breathing while they were online," and then having them look for irregularities within the log. "‘Every single student discovered,' [David] Levy said in a talk to Google employees, ‘by doing this form of mindfulness practice, that there were certain things happening for them around email that were actually not what they wanted at all'" (Rheingold 73).
+5: Rheingold covers several other attention probes in Net Smart. One idea is to have your students keep a "log of their email behavior for a week, noting how their body and emotions felt, and how they were breathing while they were online," and then having them look for irregularities within the log. "‘Every single student discovered,' [David] Levy said in a talk to Google employees, ‘by doing this form of mindfulness practice, that there were certain things happening for them around email that were actually not what they wanted at all'" (Rheingold 73).
 
-6Another productive collaborative action problem that Rheingold uses is to have the co-teaching team delineate concepts, words, and phrases, and place them on the class wiki. And then everyone is in charge of helping to define these terms in the coming week. Howard described to us the benefits he's discovered of incorporating the creation of common terms in his digital media class: "If everybody does a little bit of something and there are sixteen of us, we can get a very impressive lexicon made by the time we're done with the quarter, and these are the words that you want to carry away with you—you want to know these words when you are dealing with social media in the future."
+6: Another productive collaborative action problem that Rheingold uses is to have the co-teaching team delineate concepts, words, and phrases, and place them on the class wiki. And then everyone is in charge of helping to define these terms in the coming week. Howard described to us the benefits he's discovered of incorporating the creation of common terms in his digital media class: "If everybody does a little bit of something and there are sixteen of us, we can get a very impressive lexicon made by the time we're done with the quarter, and these are the words that you want to carry away with you—you want to know these words when you are dealing with social media in the future."
 
  
+
+Works Cited
+
+Bindley, Katherine. "Reddit Apologizes for Speculating About  Boston Marathon Suspects." Huffington Post. 23 April 2013. Web. Accessed 1 May 2013. <http://www.huffingtonpost.com/2013/04/22/reddit-boston-marathon-apology-suspects_n_3133472.html>.
+
+Davidson, Cathy. Now You See It: How Technology and Brain  Science Will Transform Schools and Business for the 21stCentury. New York: Penguin, 2011. Print.
+
+Surowiecki, James. "The Wise Way to Crowdsource a Manhunt." The New Yorker. 24 April 2013. Web. Accessed 1 May 2013  <http://www.newyorker.com/online/blogs/comment/2013/04reddit-tsarnaev-marathon-bombers-wisdom-of-crowds.html>.
+
+Rheingold, Howard. Net Smart: How to Thrive Online. Cambridge,Massachusetts: MIT Press, 2012. Print.---. Personal interview. 26 Feb. 2013.
+
+Thomas, Douglas, and John Seely Brown. A New Culture of  Learning: Cultivating the Imagination for a World of Constant Change. Lexington, Kentucky: CreateSpace Independent Publishing Platform, 2011. Print.
+
+Resources
+
+Net SmartResources:
+
+<http://rheingold.com/netsmart/> <http://rheingold.com/books/net-smart/>
+
+Douglas Thomas on The New Culture of Learning: <http://www.youtube.com/watch?v=lM80GXlyX0U>
+
+Howard Rheingold on Net Smart: <http://www.youtube.com/watch?v=eKvtG4H1y5I>
+
+ 
+
+Critical Thinking Resources:
+
+<http://www.huffingtonpost.com/betsy-aoki/critical-thinking-roundup_b_642945.html>
+
+<http://critical-thinking.iste.wikispaces.net/Crap+Detection+101>
+
+ 
+
+Teaching Critical Thinking:
+
+<http://www.microsoft.com/education/en-us/teachers/guides/Pages/critical_thinking.aspx>
+
+ 
+
+Social Bookmarks:
+
+<https://delicious.com/>
+
+<https://www.diigo.com/>
+
+ 
+
+Question-and-Answer Websites:
+
+<http://www.formspring.me/>
+
+<https://www.quora.com/>
+
+ 
+
+"In the Context of Web Context: How to Check Out Any Web Page":
+
+<http://www.wordyard.com/2010/09/14/in-the-context-of-web-context-how-to-check-out-any-web-page/>
+
+ 
+
+To Find Front Groups:
+
+<http://www.sourcewatch.org>
+
+ 
+
+To Discover Urban Legends and Misinformation:
+
+<http://www.snopes.com/>
+
+<http://urbanlegends.about.com/od/government/Politics_and_Government.htm>
+
+<http://www.america.gov/conspiracy_theories.html>
+
+ 
+
+Faculty Scholarly Productivity Index:
+
+<http://chronicle.com/stats/productivity/>
+
+ 
+
+Google Scholar Citation Analyzer:
+
+<http://www.harzing.com/pop.htm>
+
+ 
+
+Political Fact Checker:
+
+<http://factcheck.org/>
+
+ 
+
+Science:
+
+<http://www.sciencedirect.com/>
+
+ 
+
+Health on the Net Foundation:
+
+<http://www.hon.ch/>
+
+ 
+
+How to Check Online Health Articles:
+
+<http://scienceroll.com/2009/05/20/health-information-online-how-to-check-the-quality/>
+
+<http://www.mlahq.org/resources/userguide.html>
+
+ 
+
+Aggregator of Reliable Blogs:
+
+<http://globalvoicesonline.org/>
+
+ 
+
+Guide to Good Journalism:
+
+<http://newstrust.net/>
