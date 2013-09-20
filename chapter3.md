@@ -174,18 +174,6 @@ Teaching Critical Thinking:
 
 Social Bookmarks:
 
-<https://delicious.com/>
-
-<https://www.diigo.com/>
-
- 
-
-Question-and-Answer Websites:
-
-
-
-<https://www.quora.com/>
-
  
 
 "In the Context of Web Context: How to Check Out Any Web Page":
