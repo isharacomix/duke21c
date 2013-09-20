@@ -178,7 +178,8 @@ Social Bookmarks:
 
 Question-and-Answer Websites:
 
-<http://isharacomix.org>
+<http://www.quora.com>
+
 
 
  
