@@ -149,7 +149,7 @@ Works Cited
 -----------
  
 
-McLuhan, Marshall.  "Full Lecture—The Medium Is the Message—1977." YouTube. 9 August 2011. Web. Accessed 11 June 2013. <https://www.youtube.com/watch?v=ImaH51F4HBw>.
+McLuhan, Marshall.  "Full Lecture—The Medium Is the Message—1977." YouTube. 9 August 2011. Web. Accessed 11 June 2013. <http://www.youtube.com/watch?v=ImaH51F4HBw>.
 
 McLuhan, Marshall. Understanding Media: The Extensions of Man. Cambridge, Mass.: MIT Press, 1994.Print.
 
@@ -185,7 +185,7 @@ McLuhan, Marshall, Quentin Fiore, and Jerome Agel. War and Peace in the Global V
 
 Mozilla Popcorn Maker
 
-<https://popcorn.webmaker.org/>
+<http://popcorn.webmaker.org/>
 
 Optical Fiber
 
