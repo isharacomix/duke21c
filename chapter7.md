@@ -22,7 +22,7 @@ As I write this text I am surrounded by transmissions of different evolutions of
 
 It is important to recognize that like all "universal" design choices the QWERTY design is not optimal for every person, language, or device. Some studies suggest elements of the design favor left-handed people over right-handed people (more typing strokes are done with the left hand). The QWERTY design may also not be well suited to mobile technologies utilizing keyboards. It is important to identify and understand the implications of design affordances on our everyday experiences. The QWERTY keyboard is exemplifies how digital literacies, such as typing, are significantly tied to design. This one design decision made in the 1870s has become a standard literacy in many places despite its limited scope of usability. The impact of design decisions can span decades. Would the text of this chapter be different were it written on a typewriter or tablet?  Typed on a different keyboard design?
 
-![Another Qwerty]({{ site.baseurl }}img/7-2_keyboard.jpg)
+![Another Qwerty]({{ site.baseurl }}img/7-2_keyboard.png)
 
 <sup>Figure 2: QWERTY Keyboard design this chapter was written with...</sup>
 
@@ -34,9 +34,9 @@ Looking beyond the keyboard, up at the kitchen space where I work, visible desig
  > granted. Everything is changing; you, your family, your education, your neighborhood,
  > your job, your government, your relationship to the other. And they're changing dramatically ."
 
-![Coffee]({{ site.baseurl }}img/7-3_coffee.jpg)
+![Coffee]({{ site.baseurl }}img/7-3_coffee.png)
 
-![Berries]({{ site.baseurl }}img/7-4_berries.jpg)
+![Berries]({{ site.baseurl }}img/7-4_berries.png)
 
 <sup> Figures 3 and 4: Instagram Images from @jjstratto</sup>
 
@@ -50,7 +50,7 @@ In her book *Inventing the Medium: Principles of Interaction Design as a Cultura
 2. Exchange the object with another person and individually write a first impression of each other's selected object.
 3. Together, write a detailed description of the object identifying design decisions, including size, material, shape, interface, sensory relationships, portability, etc.
 
-![Whiteboard]({{ site.baseurl }}img/7-5_exercises.jpg)
+![Whiteboard]({{ site.baseurl }}img/7-5_exercises.png)
 
 <sup>Figure 5: Snapshot of whiteboard from class design exercise?</sup>
 
@@ -103,7 +103,7 @@ These comments were made while the class looked at mock-ups of different cover d
 
 Experimentation with collective design processes continued with the development of the images used throughout this book. The chapter covers together form a tapestry of images collected from each author to create a visual representation of 21st century digital literacies. There is an interesting thread of nature images from the submissions that is reflective of the presence of biomimicry between organic and digital organisms. This mosaic of imagery is an expression of biological and digital confluences shaping the environment around us. Ultimately, the design evolved beyond these initial discussions and comments into a creative intersection of the original design mock ups.  Our decision to pursue a variety of publishing forms for this book also allows for the design to further evolve over time.      
 
-![Cover]({{ site.baseurl }}img/7-8_field_notes.jpg)
+![Cover]({{ site.baseurl }}img/7-8_field_notes.png)
 
 <sup>Figure 8: Sample Cover Design Mock-Up for this book.</sup>
 
