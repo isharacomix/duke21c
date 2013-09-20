@@ -174,9 +174,9 @@ Teaching Critical Thinking:
 
 Social Bookmarks:
 
-<https://delicious.com/>
+<http://delicious.com/>
 
-<https://www.diigo.com/>
+<http://www.diigo.com/>
  
 
 Question-and-Answer Websites:
