@@ -8,7 +8,7 @@ Barry Peddycord III and Elizabeth A. Pitts
 ------------------------------------------
 ![Title Image]({{ site.baseurl }}img/2-cathbaz_0.png)
 
-<sub>Visual Notes on Eric S. Raymond's The Cathedral and the Bazaar, by Giulia Forsythe</sub>
+<sup>Visual Notes on Eric S. Raymond's The Cathedral and the Bazaar, by Giulia Forsythe</sup>
  
 As Cathy Davidson mentioned in Chapter One, our class was deeply interested in what Yochai Benkler has called "commons-based peer production," a relatively new kind of collaboration that digital environments afford. On a personal level, we find online worlds appealing in no small part because they enable conversation and collaboration with friends, colleagues and even strangers who share common interests and goals. As scholars, we know that engaging with others challenges us to reexamine our own assumptions in a productive way. As educators, we want to help students cultivate the ability to engage in a constructive manner with people holding viewpoints that are different from their own. We want them to become [active questioners](http://www.molbiolcell.org/content/24/6/680.abstract) and capable problem solvers who approach unfamiliar situations with openness and confidence.
 
@@ -35,11 +35,11 @@ We thought it was important for the brainstorming session itself to proceed acco
 
 ![Figure 1]({{ site.baseurl }}img/2-fig_1.png)
 
-<sub>Figure 1: We began tweeting links just after 6pm.</sub>
+<sup>Figure 1: We began tweeting links just after 6pm.</sup>
 
 ![Figure 2]({{ site.baseurl }}img/2-fig_2.png)
 
-<sub>Figure 2: By 6:45pm, we had visitors from around the world.</sub>
+<sup>Figure 2: By 6:45pm, we had visitors from around the world.</sup>
 
  
 
@@ -55,11 +55,11 @@ By assuming imperfection (a reasonable assumption, given that learning is an ite
 
 ![Figure 3]({{ site.baseurl }}img/2-fig_3.png)
 
-Figure 3: Annotated slide # 1.
+<sup>Figure 3: Annotated slide # 1.</sup>
  
 ![Figure 4]({{ site.baseurl }}img/2-fig_4.png)
 
-Figure 4: Annotated slide # 13.
+<sup>Figure 4: Annotated slide # 13.</sup>
 
 One factor leading to boredom and lack of energy in the traditional classroom is the way that learning is perceived by students as a passive activity—a thing that happens to them. What they learn and how they learn is decided by someone else, without considering what they care about or what they want to learn. Part of the idea of opening a class comes from giving students the opportunity to influence the course, and when they exert this influence, they inevitably effect some change to the course that they can take ownership of. In #Duke21C, one of the first concerns raised by a student was the question of which hashtag would be used on Twitter for the class backchannel. Suggestions were made and another student's suggestion became the official choice. Yet another student suggested that the final class project be an e-book, which led to the creation of the Field Notes.
 
