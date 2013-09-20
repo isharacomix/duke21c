@@ -174,12 +174,11 @@ Teaching Critical Thinking:
 
 Social Bookmarks:
 
-
  
 
 Question-and-Answer Websites:
 
-<http://www.formspring.me/>
+
 
 <https://www.quora.com/>
 
