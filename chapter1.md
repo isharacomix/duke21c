@@ -17,7 +17,7 @@ What is the purpose of the institutions and structures of learning that support 
 
 Since so much learning takes place in virtual and distributed spaces, it is even more important to ask serious questions about the classroom as a space, the course as a bounded, temporal set of arrangements, the efficacy and importance of face-to-face communication, and the process by which a group of people with a shared purpose can be transformed into a community. We argue that these basic ideas are not preliminary to new modes of learning but intrinsic to the very nature of learning how to learn in an interactive, connected era where contribution, participation, and peer learning are vital responsibilities and opportunities.
 
- 
+
 
 What Reading Inspired Our Thinking about the Community Rules of Our Class?
 --------------------------------------------------------------------------
